@@ -17,6 +17,7 @@ cost, and latency rule out sending data to a hosted model.
 | 🎛️ | **[finetuning-lab](https://github.com/Jashwanthjash001/finetuning-lab)** | LoRA fine-tune Llama 3.2 1B on Apple Silicon (MLX). Exact-match on a structured task: 15% → 100%. |
 | 🤖 | **[sequence-agent](https://github.com/Jashwanthjash001/sequence-agent)** | Agentic outreach orchestrator — persistent state, deterministic guardrails, human handoff. |
 | ⚖️ | **[llm-council](https://github.com/Jashwanthjash001/llm-council)** | Multi-model ensemble: three models answer, two judge, one auditable decision — prefers an honest *no decision* over false confidence. |
+| 🧩 | **[llm-lifecycle-mcp](https://github.com/Jashwanthjash001/llm-lifecycle-mcp)** | The glue: an MCP server that lets an agent drive the whole stack above — quantize, eval, benchmark, serve, RAG — through one tool interface. |
 
 ### Stack
 
